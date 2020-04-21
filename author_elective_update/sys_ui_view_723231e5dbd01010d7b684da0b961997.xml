@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>View_name</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-20 17:35:16</sys_created_on>
+        <sys_id>723231e5dbd01010d7b684da0b961997</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>View name</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_view_723231e5dbd01010d7b684da0b961997</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-20 17:35:16</sys_updated_on>
+        <title>View name</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>f93401efdb987b0052dd2f17d49619cd</instance_id>
+        <instance_name>dev77113</instance_name>
+        <name>sys_ui_view_723231e5dbd01010d7b684da0b961997</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>View_name</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-20 17:35:16</sys_created_on><sys_id>723231e5dbd01010d7b684da0b961997</sys_id><sys_mod_count>0</sys_mod_count><sys_name>View name</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_view_723231e5dbd01010d7b684da0b961997</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-20 17:35:16</sys_updated_on><title>View name</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>-1144909736</payload_hash>
+        <record_name>View name</record_name>
+        <reverted_from/>
+        <source>5595a9a5db901010d7b684da0b961967</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-20 17:35:16</sys_created_on>
+        <sys_id>323231e5dbd01010d7b684da0b961999</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17198a893410000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-20 17:35:16</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>7a3231e58ad01010a274e3e705daaf98</update_guid>
+        <update_guid_history>7a3231e58ad01010a274e3e705daaf98:-1144909736</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-21 13:44:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>0bc8a63ada69404caa643f81ce308ac1</sys_id>
+        <sys_metadata>723231e5dbd01010d7b684da0b961997</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>View name</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_view_723231e5dbd01010d7b684da0b961997</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_723231e5dbd01010d7b684da0b961997">323231e5dbd01010d7b684da0b961999</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-21 13:44:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
